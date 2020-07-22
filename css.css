@@ -7,10 +7,10 @@ header {
 
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: #888888;
     text-align: center;
     color: #eb9ce4;
     padding-top: 30px;
-    padding-bottom: 40px;
 }
 
 h2 {
@@ -23,11 +23,9 @@ body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 18px;
     background: url("pink_rice.png")
-
 }
 
 #main-container {
-    padding-top: 130px;
     min-height: calc(100vh - 70px);
     background-color: #ffe6f2;
     margin: 0 auto;
@@ -87,4 +85,6 @@ footer {
     float: right;
     background:	#A09EA0;
 }
+
+
 
