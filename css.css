@@ -58,8 +58,8 @@ footer {
 
 /*Text Box for Generated Password */
 #password {
-    text-align: center;
     padding-top: 60px;
+    text-align: center;
     width: 100%;
     border-radius: 10px;
     border: dashed 1px gray;
