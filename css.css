@@ -1,0 +1,91 @@
+header {
+    float: center;
+    width: 100%;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #eb9ce4;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+h2 {
+    color:  #A9A9A9;
+    text-align: center;
+}
+
+body {
+    padding: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    background: url("pink_rice.png")
+
+}
+
+#main-container {
+    padding-top: 130px;
+    min-height: calc(100vh - 70px);
+    background-color: #ffe6f2;
+    margin: 0 auto;
+    float: center;
+}
+
+.container {
+    margin-top: 10%;
+    max-height: 400px;
+}
+
+
+footer {
+    color: #eb9ce4;
+    text-align: center;
+}
+
+/*outside container that holds everything*/
+.main-section {
+    border-radius: 25px;
+    float: center;
+    width: 100%;
+    padding: 30px;
+    margin: 0 auto;
+    background: #ffffff;
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+    box-shadow: 3px 3px 25px #888888;
+}
+
+/* large text area */
+#password {
+    text-align: center;
+    width: 100%;
+    border-radius: 10px;
+    border: dashed 1px gray;
+}
+
+/* generate and copy buttons */
+
+.button {
+    text-decoration: none;
+    color: #f7f3f3;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 15px;
+    border-radius: 50px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+}
+
+#generate {
+    background:#eb9ce4;
+}
+
+#copypw {
+    float: right;
+    background:	#A09EA0;
+}
+
