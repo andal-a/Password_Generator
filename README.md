@@ -8,6 +8,8 @@
 
 * A minimum of one criteria must be selected in order for the application to generate a password.
 
+![Password Generator Screenshot](passwordgenimg.png)
+
 ## Instructions:
 
 * Click the `Generate Password` button to start the application.
