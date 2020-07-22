@@ -45,7 +45,7 @@ footer {
     text-align: center;
 }
 
-/*outside container that holds everything*/
+/*Main Container*/
 .main-section {
     border-radius: 25px;
     float: center;
@@ -58,7 +58,7 @@ footer {
     box-shadow: 3px 3px 25px #888888;
 }
 
-/* large text area */
+/*Text Box for Generated Password */
 #password {
     text-align: center;
     width: 100%;
@@ -66,8 +66,7 @@ footer {
     border: dashed 1px gray;
 }
 
-/* generate and copy buttons */
-
+/*Buttons for Generating Password and Copy to Clipboard*/
 .button {
     text-decoration: none;
     color: #f7f3f3;
